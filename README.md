@@ -1,16 +1,19 @@
-## Hi there 👋
+# Maycon-Wesley
+# 👋 Olá, eu sou Maycon Wesley
 
-<!--
-**mayconwsdev/mayconwsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação** e apaixonado por **Desenvolvimento Web**.  
+💻 Atualmente estudando **HTML, CSS, JavaScript, Python e SQL**.  
+🚀 Buscando oportunidade de **Estágio em TI** para aplicar meus conhecimentos.  
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias e Ferramentas
+- **Front-end:** HTML, CSS, JavaScript
+- **Back-end:** Python (básico), SQL (básico)
+- **Outros:** Git/GitHub, Google Sites, Lógica de Programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos em Destaque
+- **Plataforma Informativa ETE AVS** – Projeto acadêmico para divulgação de informações e editais escolares.
+  [https://github.com/mayconwsdev/plataforma-informativa-ete-avs]
+---
+
+📫 **Conecte-se comigo:**  
+[LinkedIn](www.linkedin.com/in/mayconwesley) | [E-mail](mayconwesleydasilva139@gmail.com)
