@@ -11,8 +11,8 @@
 - **Outros:** Git/GitHub, Google Sites, Lógica de Programação
 
 ## 📂 Projetos em Destaque
-- **Plataforma Informativa ETE AVS** – Projeto acadêmico para divulgação de informações e editais escolares.
-  [https://github.com/mayconwsdev/plataforma-informativa-ete-avs]
+  - [Plataforma Informativa ETE AVS](https://github.com/mayconwsdev/plataforma-informativa-ete-avs)
+  - [Site ONG Salva Vidas](https://github.com/mayconwsdev/ong-salva-vidas-full)
 ---
 
 📫 **Conecte-se comigo:**  
